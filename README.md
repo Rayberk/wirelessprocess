@@ -1,6 +1,5 @@
 # wirelessprocess
-You cann see the processes of the server wireless from the same network
-This is an dango project you need to install django
+You can see the processes of the server wireless from the same network This is an django project you need to install django
 
 To refresh the working services you need start SVCAPP/templates/SVCAPP/output.py indepented
 
